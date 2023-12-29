@@ -46,3 +46,7 @@ margin-top:20px;
 #search_result img {
   width: 200px;  
 }
+
+.error {
+    display: none;
+}
